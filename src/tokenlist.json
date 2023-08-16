@@ -3,7 +3,7 @@
   "timestamp": "2023-08-16T16:00:00.000Z",
   "logoURI": "https://dogswap.net/favicon.ico",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -18,7 +18,7 @@
     },
     {
       "name": "DogSwap",
-      "address": "0x7D020A5722aCDD7540ca69F639E4e31696e272AC",
+      "address": "0x3d4dFB573096677B1C6A7c3E2e44F2b7eEf0CaD8",
       "symbol": "DOGS",
       "decimals": 18,
       "chainId": 204,
