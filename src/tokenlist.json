@@ -14,7 +14,7 @@
       "symbol": "WBNB",
       "decimals": 18,
       "chainId": 204,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/DogswapOfficial/tokenlist/main/logos/bnb.png"
     },
     {
       "name": "DogSwap",
